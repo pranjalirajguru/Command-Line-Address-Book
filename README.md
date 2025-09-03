@@ -1,4 +1,4 @@
-#📒 Command-Line Address Book
+📒 Command-Line Address Book
 
 A simple C++ command-line program to manage your personal contacts.
 This project demonstrates the use of structs, vectors, file handling, and search algorithms in C++.
